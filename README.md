@@ -6,7 +6,7 @@
 </div>
 
 # Introduction
-'Ello! I'm Harshal (a.k.a. @saturnyx), a student robotics developer. I enjoy working with others to build performant, reliable, and safe software—whether it's an SDK running on a Cortex-A9, a desktop application, or a compression algorithm aboard a satellite. Feel free to look around my profile!
+'Ello! I'm Harshal (a.k.a. @saturnyx), a student robotics developer. I enjoy working with others to build performant, reliable, and safe software - whether it's an SDK running on a Cortex-A9, a desktop application, or a compression algorithm aboard a satellite. Feel free to look around my profile!
 
 <div align="center">
   <img src="https://codeberg.org/saturnyx/art/raw/branch/main/collections/first_night/export/beyond.png" alt="My art" />
