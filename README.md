@@ -30,7 +30,6 @@
 - Zig
 - Assembly
 - Bash & Zsh (Scripting)
-
 # Current Projects
 ## [Antaeus](https://github.com/saturnyx/antaeus)
 A new opinionated library based on [Vexide](https://github.com/vexide/vexide) for VEX V5 Robotics. While still in active development, much of the basic algorithms have already been implemented. Some parts of it uses custom algorithms tailored for Vex robots. This project is also available in [crates.io](https://crates.io/crates/antaeus). Check out its README [here](https://github.com/saturnyx/antaeus/blob/main/README.md).
@@ -39,14 +38,20 @@ A VEX v5 Sim engine based on [lewisfm](https://github.com/lewisfm)'s [Roboscope]
 ## Diatom
 A small, simple VEX SDK wrapper. Not a kernel, not a runtime, not a framework. Just a C library that you can use anywhere. Designed to be compatible with many compiled languages such as Zig, Ada, Nim, Go (tinyGo), Swift (embedded swift) and many more. Diatom is still pretty new and has not been released to public yet.
 # Passion
-<!-- Vex Robotics (Team 8059Z as of 2026) -->
-- Vex Robotics
-- Writing Rust
-- Pixel Art
-# Contacting me
-If you need to contact me privately, email <saturnyx@disroot.org>. Please remember that it will take a few hours to days for me to respond, depending on my availability.
+I love doing robotics in my free time, especially anything related to **Vex V5**. Do checkout a few of my projects below and star them if you like! Plus, I love writing **Rust**, sure its a little hard (and its strictness can really be a pain), but it isn't something I can't handle.  I'm also trying my hand at **pixel art**!
+  
 <div align="center">
   <img src="https://codeberg.org/saturnyx/art/raw/branch/main/collections/first_night/export/moon.png" alt="Footer" />
+</div>
+
+# Contacting me
+If you need to contact me privately, email <saturnyx@disroot.org>. Please remember that it will take a few hours to days for me to respond, depending on my availability.
+
+<div align="center">
+<a href="https://heatmap.shymike.dev?id=U082HC97BDM&timezone=Asia%2FSingapore&cell_size=20&padding=10&rounding=100&ranges=79%2C28%2C3&theme=dark&standalone=true" title="Click to view detailed data for each day!">
+    <img alt="Hackatime activity heatmap" src="https://heatmap.shymike.dev?id=U082HC97BDM&timezone=Asia%2FSingapore&cell_size=20&padding=10&rounding=100&ranges=79%2C28%2C3&theme=dark">
+</a>
+  <i>Also, here is a slightly more accurate Heatmap</i>
 </div>
 
 <!---
